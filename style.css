@@ -5,3 +5,11 @@ body{
 [class^=col]{
 border: 1px solid black;
 }
+
+img{
+    max-width: 20%;
+}
+
+.my-box{
+    background-color: aqua;
+}
