@@ -1,13 +1,27 @@
 
 
 [class^=col]{
-border: 1px solid black;
+
+}
+
+.my-avatar-section{
+    background-color: aqua;
+}
+
+.avatar{
+    width: 350px;
 }
 
 img{
-    max-width: 20%;
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1rem;
 }
 
 .my-box{
     background-color: aqua;
+}
+
+.my-red{
+    background-color: brown;
 }
