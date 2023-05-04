@@ -25,3 +25,8 @@ img{
 .my-red{
     background-color: brown;
 }
+
+footer{
+    background-color:rgb(24, 24, 68);
+    color: white;
+}
